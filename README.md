@@ -1,4 +1,6 @@
 # PS-ServiceCommander
+*PowerShell-powered Windows service orchestration for Uvicorn, Celery & Redis stacks*
+
 🚀 All-in-One Service Manager for Modern Development Stacks
 A PowerShell-powered CLI to orchestrate Uvicorn servers, Celery workers, Redis instances, and more with single-command simplicity
 
