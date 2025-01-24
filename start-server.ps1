@@ -112,12 +112,12 @@ USAGE:
 .\$($MyInvocation.MyCommand.Name) <Action>
 
 Actions:
-    uvicorn         - Start uvicorn server.
-    celery_worker   - Start Celery worker.
-    celery_beat     - Start Celery beat.
-    start_redis     - Start Redis server.
-    stop_redis      - Stop Redis server.
-    stop_celery     - Stop All Celery Script.
+    Start-Server uvicorn         - Start uvicorn server.
+    Start-Server celery_worker   - Start Celery worker.
+    Start-Server celery_beat     - Start Celery beat.
+    Start-Server start_redis     - Start Redis server.
+    Start-Server stop_redis      - Stop Redis server.
+    Start-Server stop_celery     - Stop All Celery Script.
 
 "@
     exit
